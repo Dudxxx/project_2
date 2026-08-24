@@ -39,3 +39,7 @@ body {
 .navbar-brand {
     letter-spacing: 0.5px;
 }
+
+html {
+    scroll-behavior: smooth;
+}
